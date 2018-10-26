@@ -1,0 +1,31 @@
+{
+    "MYSQL": {
+        "mysql_host": "localhost",
+        "mysql_port": "3306",
+        "mysql_user": "root",
+        "mysql_password": "wk123456",
+        "mysql_user_ali": "",
+        "mysql_password_ali": "",
+        "mysql_host_ali": "",
+        "mysql_remote_user": "",
+        "mysql_remote": ""
+    },
+    "REDIS": {
+        "redis_host": "'localhost'"
+    },
+    "EMAI": {
+        "login_email_user": "",
+        "login_email_password": "",
+        "smtp_host": "",
+        "from_mail": "",
+        "to_mail": "",
+        "ali_db": ""
+    },
+    "MYSQL_XGD": {
+        "mysql_xgd_host": "",
+        "mysql_xgd_user": "",
+        "mysql_xgd_password": "",
+        "mysql_xgd_port": "",
+        "data_path": ""
+    }
+}
